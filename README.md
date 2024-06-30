@@ -31,3 +31,4 @@ Model Training
 <br>
 Model Evaluation
 
+![image](https://github.com/nimishgarg24/Stock-price-prediction/assets/118631488/d08b3af8-518e-44f8-9f0b-426445160cd8)
